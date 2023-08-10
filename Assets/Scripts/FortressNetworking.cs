@@ -45,7 +45,7 @@ public class FortressNetworking : MonoBehaviour
 
     public void OnStartClick()
     {
-        if (NextGame == 1)
+        if (NextGame == 2)
         {
             PhotonVRManager.JoinPrivateRoom(StartingRoomCode);
         }
