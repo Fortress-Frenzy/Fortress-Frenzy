@@ -9,6 +9,8 @@ public class PlayerScript : MonoBehaviour
     [SerializeField]
     private TMP_Text TimeText;
 
+    public GameObject PauseUI;
+
     void Update()
     {
         try
