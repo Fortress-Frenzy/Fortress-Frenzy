@@ -4322,6 +4322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TimeText: {fileID: 1818230693}
   PauseUI: {fileID: 2056705145}
+  toggleReference: {fileID: -6956102050850011917, guid: b113d388d5399423a9931370611d283c, type: 3}
 --- !u!1 &2056705145
 GameObject:
   m_ObjectHideFlags: 0
