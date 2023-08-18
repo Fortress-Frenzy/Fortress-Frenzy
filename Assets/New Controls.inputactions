@@ -19,7 +19,7 @@
                 {
                     "name": "",
                     "id": "a9b16eb4-6c5c-44a8-8859-0705a1f6ab66",
-                    "path": "<OculusTouchController>{RightHand}/triggerPressed",
+                    "path": "<OculusTouchController>{LeftHand}/thumbstickClicked",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
